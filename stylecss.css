@@ -13,6 +13,7 @@ height: 630px;
 } 
 .topli{
   background-color:white;
+  height: max-content;
 }
 div.container {
 
@@ -56,6 +57,7 @@ div.container {
      @media screen and ( min-width: 901px ) and ( max-width: 1024px ) {
     .container { display:none; }.
     .large-menu{display: inline;}
+    
     }  
     @media screen and ( min-width: 1025px ) {
     .container { display:none; }
