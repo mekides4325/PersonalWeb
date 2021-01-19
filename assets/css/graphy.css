@@ -1,28 +1,17 @@
-.mybox img{
-    height: 300px;
-    padding: 2px;
-    
+html body{
+    height: fit-content;
 }
 .col-sm{
-    padding: 2px;
+    padding: 4px;
+  
 
 }
-.raw .col-6{
-    padding: 19px;
 
-}
 
 .contact{
     position: absolute;
     margin-top: 50px;
     margin-left: 600px;
-}
-
-.footer{
-    position: absolute;
-    margin-left: 600px;
-    margin-top: 300px;
-  
 }
 .tex{
     position: absolute;

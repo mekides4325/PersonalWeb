@@ -30,62 +30,23 @@ font-family: 'Noto Sans JP', sans-serif;
   margin-top: 30px;
 }
 
+
 .col-12 d-flex justify-content-center{
   margin: 0 auto;
 }
 
 
 
-
-
-
-
-
-
-/* .navbar-nav{
-    justify-content: end;
-} 
-
-
-div.container {
-
-  position: absolute;
-  left: 400px;
-  top: 20px;
-  cursor: pointer;
+.footer{
+  padding:0px;
+  background-color: #151B54;
+  color: white;
+  width: 100%;
+  position: absolute !important;
+  bottom: 0 !important;
+ 
+  
 }
-
-.bar1, .bar2 {
-  width: 35px;
-  height: 5px;
-  background-color: #333;
-  margin: 6px 0;
-  transition: 0.4s;
+.footer a{
+  color: white;
 }
-.change .bar1 {
-  -webkit-transform: rotate(-45deg) translate(-9px, 9px) ;
-  transform: rotate(-45deg) translate(-9px, 6px) ;
-}
-
-
-.change .bar2 {
-  -webkit-transform: rotate(45deg) translate(-9px, -9px) ;
-  transform: rotate(45deg) translate(-1px, -2px) ;
-}
-   @media screen and ( max-width: 900px ) {
-    .container { display:inline; }
-    .large-menu { display:none; }
-    }
-     @media screen and ( min-width: 901px ) and ( max-width: 1024px ) {
-    .container { display:none; }.
-    .large-menu{display: inline;}
-    
-    }  
-    @media screen and ( min-width: 1025px ) {
-    .container { display:none; }
-    .large-menu { display:inline; }
-    } 
-   */
-    
-
-   
